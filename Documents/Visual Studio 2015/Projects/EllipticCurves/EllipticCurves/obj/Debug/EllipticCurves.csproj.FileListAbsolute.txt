@@ -1,0 +1,6 @@
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\EllipticCurves\EllipticCurves\bin\Debug\EllipticCurves.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\EllipticCurves\EllipticCurves\bin\Debug\EllipticCurves.exe
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\EllipticCurves\EllipticCurves\bin\Debug\EllipticCurves.pdb
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\EllipticCurves\EllipticCurves\obj\Debug\EllipticCurves.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\EllipticCurves\EllipticCurves\obj\Debug\EllipticCurves.exe
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\EllipticCurves\EllipticCurves\obj\Debug\EllipticCurves.pdb
